@@ -13,13 +13,17 @@ This repository represents an overview of the different subprojects related to m
     1) Develop: Remote connection to a i2c-bus: [remote-i2c](https://github.com/zebrajaeger/remote-i2c)
         - for Raspberry PI
         - Local machine high-level development with connection to a real device
+    1) Optional: [GPS Position Sensor](https://github.com/zebrajaeger/i2c-gps)
+        - Connect a GP-02 Module via I2C
 1) Stitch photos to one big image
     - Kolor Autopano Giga (commercial, discontinued by GoPro)
     - <https://download.kolor.com/apg/stable/history>
 1) Generate tilemaps and Viewer: [jsphere2cube](https://github.com/zebrajaeger/jsphere2cube)
     - java
     - uses [marzipano](https://www.marzipano.net/) and [pannellum]()
+1) Viewer: [Modified Pannellum viewer](https://github.com/zebrajaeger/pannellum-modified)
+    - It doesn't stop auto-orientation on zoom/move
 1) Server to present the panos: [pano-server](https://github.com/zebrajaeger/pano-server)
     - overview
-    - preview for FB/Whatsapp etc. links
+    - preview for shared panos via FB/Whatsapp etc.
     - nodeJs, docker
