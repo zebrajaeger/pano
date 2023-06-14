@@ -18,7 +18,7 @@ This repository represents an overview of the different subprojects related to m
 1) Generate tilemaps and Viewer: [jsphere2cube](https://github.com/zebrajaeger/jsphere2cube)
     - java
     - uses [marzipano](https://www.marzipano.net/) and [pannellum]()
-1) Server to present the panos: [pano-server](https://github.com/zehttps://pannellum.org/brajaeger/pano-server)
+1) Server to present the panos: [pano-server](https://github.com/zebrajaeger/pano-server)
     - overview
     - preview for FB/Whatsapp etc. links
     - nodeJs, docker
