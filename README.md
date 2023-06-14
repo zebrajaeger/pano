@@ -15,6 +15,7 @@ This repository represents an overview of the different subprojects related to m
         - Local machine high-level development with connection to a real device
 1) Stitch photos to one big image
     - Kolor Autopano Giga (commercial, discontinued by GoPro)
+    - <https://download.kolor.com/apg/stable/history>
 1) Generate tilemaps and Viewer: [jsphere2cube](https://github.com/zebrajaeger/jsphere2cube)
     - java
     - uses [marzipano](https://www.marzipano.net/) and [pannellum]()
